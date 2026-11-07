@@ -1,2 +1,25 @@
-# software-testing-lab1
-Playwright automated testing
+# Створення автоматизованого тесту за допомогою штучного інтелекту
+
+## Тестований вебсайт
+https://prom.ua/ua/
+
+## Опис перевірок
+1. Перевірка переходу до категорії товарів.
+2. Перевірка заповнення поля пошуку словом «Навушники».
+3. Перевірка наявності кнопки «Знайти».
+
+## Використані технології
+- JavaScript
+- Node.js
+- Playwright
+- Chromium
+- Visual Studio Code
+
+## Запуск тесту
+1. Встановити Node.js.
+2. Виконати npm install.
+3. Виконати npx playwright install chromium.
+4. Запустити npx playwright test.
+
+## Інструмент штучного інтелекту
+ChatGPT
